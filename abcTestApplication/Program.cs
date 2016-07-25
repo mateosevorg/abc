@@ -10,7 +10,9 @@ namespace abcTestApplication
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("here we go");
             Console.ReadLine();
+
         }
     }
 }
